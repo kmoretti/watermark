@@ -68,7 +68,7 @@ import { Slider } from '@/components/ui/slider'
 import { Alert, AlertDescription, AlertTitle } from '@/components/ui/alert';
 
 // 水印内容
-const WATERMARK_VAL = ref<string>('Han水印助手')
+const WATERMARK_VAL = ref<string>('喵洛阁')
 // 水印配置
 const SLIDER_VAL = ref<any>({
   // 水印颜色
